@@ -3,16 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelListaUsuarios.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/principal/PuntoDeVentaFrame.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/gestionbd/ServiceUsuarios.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelAjustesUsuarios.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/gestionbd/ServiceCajaRegistradora.java</file>
+            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelModificaCategoria.java</file>
+            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelModificaProducto.java</file>
+            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelNuevaCategoria.java</file>
+            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelAjustesProductos.java</file>
             <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesCajaRegistradora.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelAcceso.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PantallaCajaRegistradora.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/gestionbd/GestionSql.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesUsuarios.java</file>
+            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesAjustesProductos.java</file>
         </group>
     </open-files>
 </project-private>
