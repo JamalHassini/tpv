@@ -3,12 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelModificaCategoria.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelModificaProducto.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelNuevaCategoria.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PanelAjustesProductos.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesCajaRegistradora.java</file>
-            <file>file:/C:/Users/Usuario1/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesAjustesProductos.java</file>
+            <file>file:/C:/Users/kiriku/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/pantallas/PantallaCajaRegistradora.java</file>
+            <file>file:/C:/Users/kiriku/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesBebidas.java</file>
+            <file>file:/C:/Users/kiriku/Documents/NetBeansProjects/TO_Jamal_Hassini_tpv/src/punto/de/venta/acciones/AccionesCajaRegistradora.java</file>
         </group>
     </open-files>
 </project-private>
